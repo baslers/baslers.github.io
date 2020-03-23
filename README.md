@@ -3,8 +3,9 @@
 ### Mathematik
 
 Aufgaben 8a:  
-S. 153 Nr. 1-4
+S. 153 Nr. 1-4  
 S. 161 Nr. 7  
+Fragen an johannesbasler@friedrich-gymnasium.de  
 
 ### Informatik
 
