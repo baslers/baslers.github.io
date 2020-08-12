@@ -7,3 +7,6 @@
 ### Informatik
 
 [Informatik GK11](https://baslers.github.io/informatik-gk11/)
+
+
+[Informatik GK12](https://baslers.github.io/informatik-gk12/)
